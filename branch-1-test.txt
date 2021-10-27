@@ -1,2 +1,3 @@
 linijka tekstu
 dodatkowa linijka tekstu
+modyfikacja cw9
