@@ -1,2 +1,3 @@
 linijka tekstu
 dodatkowa linijka tekstu
+edycja cw 9 z brancha conflict 2
