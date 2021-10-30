@@ -1,2 +1,3 @@
 dodaje linijke tekstu
-modyfikacja cw 9a
+
+modyfikacja cw 9a + modyfikacja cw9b z branch conflict2 - conflict resolved
