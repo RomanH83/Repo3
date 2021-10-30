@@ -1,1 +1,2 @@
 dodaje linijke tekstu
+modyfikacja cw9b z branch conflict2
